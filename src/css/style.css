@@ -138,7 +138,7 @@ body {
 }
 
 .footer {
-    background: url(/src/images/fundo-rodape.jpg) center center no-repeat;
+    background: url(./src/images/fundo-rodape.jpg) center center no-repeat;
     background-size: cover;
     padding: 35px 30px;
 }
